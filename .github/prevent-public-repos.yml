@@ -19,7 +19,7 @@ monitorIssueTitle: '[CRITICAL] Public Repository Created'
 monitorIssueBody: 'Please note that this repository is publicly visible to the internet!'
 
 # Users/Groups that should be cc'ed on the issue. Should be users/groups separated by a space.
-ccList: '@rodonovan @Karthik-Muthukrishnan @GregNetolsOpex'
+ccList: '@rodonovan @Karthik-Muthukrishnan @GregNetolsOpex @Anishkumarsec'
 
 # Repos to  exclude in detection. Should be a List of Strings.
 # excludeRepos: ['repo1', 'repo2']
